@@ -6,12 +6,18 @@
 
 ---
 
-## 💡 What I Do
+## 💡 What I Do + Fun Facts
 
 - 📊 Analyze messy data and turn it into clear decisions  
-- 🧠 Build dashboards, reports, and machine learning models  
+- 🧠 Build dashboards, reports, and machine learning models
+- 🎬 I come from a background in creative production (and found I also love to build stories with data.)
 - 🛠️ Tools I use: Python · SQL · Excel · Tableau · Google Sheets · scikit-learn  
-- 🧹 Passionate about clean data, strong visuals, and repeatable processes  
+- 🧹 Passionate about clean data, strong visuals, and repeatable processes
+- 👩🏻‍🔬I enjoy participating in professional events, particularly those organized by the Women in Data Science community.
+- 🧘 I’m happiest when I’m outdoors or recharging in nature.
+- 🍫 I have a major weakness for dark chocolate and cozy coffee shops.
+- 🐶 I have a fluffy dog who’s basically my emotional support team.
+- 🧳 Manifesting a future where I live, work, and travel globally!  
 
 ---
 
@@ -31,7 +37,9 @@
 
 - [LinkedIn] [https://www.linkedin.com/in/andrea-vera09/](url)  
 - [Email] [cocreate@digitaldrea.info ](url)
-- [Tableau Public] [https://public.tableau.com/app/profile/andrea.vera8814/vizzes](url)  
+- [Tableau Public] [https://public.tableau.com/app/profile/andrea.vera8814/vizzes](url)
+- [View My Resume] 
 - [TripleTen Portfolio]
+- Open to freelance, contract, or remote full-time roles!
 
 
