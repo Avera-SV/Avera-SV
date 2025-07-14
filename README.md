@@ -38,8 +38,8 @@
 - [LinkedIn] [https://www.linkedin.com/in/andrea-vera09/](url)  
 - [Email] [cocreate@digitaldrea.info ](url)
 - [Tableau Public] [https://public.tableau.com/app/profile/andrea.vera8814/vizzes](url)
-- [View My Resume] 
-- [TripleTen Portfolio]
+- [View My Resume Upon Request] 
+- [TripleTen Portfolio Upon Request]
 - Open to freelance, contract, or remote full-time roles!
 
 
